@@ -37,7 +37,7 @@ namespace Logger.Util
         /// </remarks>
         public void Debug()
         {
-
+            
         }
 
         /// <summary>
